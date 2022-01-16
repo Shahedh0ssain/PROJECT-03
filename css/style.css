@@ -1,0 +1,11 @@
+.pangune-box{
+    /* height: 450px;
+    width: 350px; */
+    padding: 15px;
+    border-radius: 20px;
+}
+.img{
+    padding: 15px;
+    border-radius: 20px;
+    background-color: #F1F1F1;
+}
